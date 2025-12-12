@@ -1,4 +1,4 @@
-# ISE-518-project-Plant-Air-compressor-RUL-analysis-
+# ISE-518-Project-Instrument-Air-compressor-RUL-analysis-
 The system selected for this project is the plant’s instrument air supply system, consisting of two identical multistage centrifugal compressors arranged in a 1-operating / 1-standby configuration. These compressors suction raw atmospheric air and supply compressed air to all plant instruments. Because instrument air is fundamental to safe and stable plant operation, any interruption in air supply can cause widespread disturbances and force process units into partial or full shutdown. Despite the standby redundancy, the plant occasionally experience’s reliability issues such as unexpected trips of the duty compressor, automatic changeovers to the standby unit.
 
 📄 Dataset Description:
